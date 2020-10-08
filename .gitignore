@@ -1,3 +1,7 @@
 .vscode
 cli-redis/bin
 cli-redis/obj
+cli-pgsql/bin
+cli-pgsql/obj
+cli-rabbit/bin
+cli-rabbit/obj
